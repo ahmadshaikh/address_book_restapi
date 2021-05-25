@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "60aac08085cd1c668689d4dc"
+  },
+  "name": "Ahmad",
+  "address": "122,street,Mumbai",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "pincode": "401017",
+  "phone_numbers": 98653122314,
+  "email_address": "Ahmad@gmail.com"
+},{
+  "_id": {
+    "$oid": "60aac1c966470b0fce9072c1"
+  },
+  "name": "Ram",
+  "address": "875,Junagad,Gujrat",
+  "city": "Ahemadabad",
+  "state": "Gujrat",
+  "country": "India",
+  "pincode": "908749",
+  "phone_numbers": 9683906093,
+  "email_address": "Ram@gmail.com"
+},{
+  "_id": {
+    "$oid": "60aac2e55c3437412fd42129"
+  },
+  "name": "Rahul",
+  "address": "699,Greencomplex,Miraroad",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "pincode": "4680985",
+  "phone_numbers": 9835984068,
+  "email_address": "Rahul@gmail.com"
+},{
+  "_id": {
+    "$oid": "60aac3177542f931614bb252"
+  },
+  "name": "Farheen",
+  "address": "787,Arizona,jupiter,Delhi",
+  "city": "Delhi",
+  "state": "Haryana",
+  "country": "India",
+  "pincode": "349285",
+  "phone_numbers": 9847287289057,
+  "email_address": "Farheen@gmail.com"
+},{
+  "_id": {
+    "$oid": "60aac32e1919ca1d0149b9be"
+  },
+  "name": "Nausheen",
+  "address": "321,Bunckingamm,Mumbai",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "country": "India",
+  "pincode": "309888",
+  "phone_numbers": 9479384578924,
+  "email_address": "Nausheen@gmail.com"
+},{
+  "_id": {
+    "$oid": "60aac345b6ebcc0846b32628"
+  },
+  "name": "Jasmin",
+  "address": "699,almel,Banglore",
+  "city": "Banglore",
+  "state": "Karnataka",
+  "country": "India",
+  "pincode": "987345",
+  "phone_numbers": 8345937685489,
+  "email_address": "Jasmin@yahoo.com"
+}]
